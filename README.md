@@ -5,5 +5,5 @@ P2P Chat Web App with firebase.
 
 💡<b>Tech Stack Used.</b>
 
-⚫ React.js
-⚫ Firebase
+⚪ React.js <br>
+⚪ Firebase
